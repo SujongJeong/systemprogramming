@@ -226,6 +226,8 @@ int main() {
     //return 0;
     //3-2
 
+//¼öÁ¤
+
     //int a = 10, b = 3;
     //double p = 10.0, q = 3.0;
 
